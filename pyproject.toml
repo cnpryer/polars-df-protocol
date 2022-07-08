@@ -9,7 +9,6 @@ python = "^3.10"
 polars = "^0.13.51"
 numpy = "^1.23.0"
 pyarrow = "^8.0.0"
-pandas = {git = "https://github.com/pandas-dev/pandas.git", rev = "main"}
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
@@ -17,6 +16,7 @@ pytest = "^7.1.2"
 mypy = "^0.961"
 isort = "^5.10.1"
 black = "^22.6.0"
+pandas = {git = "https://github.com/pandas-dev/pandas.git", rev = "main"}
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
