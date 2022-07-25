@@ -13,7 +13,7 @@ pyarrow = "^8.0.0"
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
 pytest = "^7.1.2"
-mypy = "^0.961"
+mypy = "^0.971"
 isort = "^5.10.1"
 black = "^22.6.0"
 pandas = {git = "https://github.com/pandas-dev/pandas.git", rev = "main"}
