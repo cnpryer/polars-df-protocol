@@ -8,7 +8,7 @@ authors = ["Chris Pryer <cnpryer@gmail.com>"]
 python = "^3.10"
 polars = "^0.13.51"
 numpy = "^1.23.0"
-pyarrow = "^8.0.0"
+pyarrow = "^9.0.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^4.0.1"
