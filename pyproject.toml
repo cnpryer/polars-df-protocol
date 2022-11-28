@@ -7,7 +7,7 @@ authors = ["Chris Pryer <cnpryer@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 polars = "^0.13.51"
-numpy = "^1.23.0"
+numpy = "^1.23.5"
 pyarrow = "^8.0.0"
 
 [tool.poetry.dev-dependencies]
